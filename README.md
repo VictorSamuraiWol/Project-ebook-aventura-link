@@ -42,7 +42,7 @@ seguem abaixo.
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 👨‍💻 Expert
+## 👨‍💻 Estudante Frontend e Aws Cloud
 
 <p>
     <img 

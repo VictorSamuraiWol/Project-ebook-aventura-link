@@ -7,8 +7,9 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso Santander 2024 - Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Bem vindos! Este é um projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Minha gratidão a Deus, DIO e Santander pela oportunidade.
+
+Welcome! This project aims to generate a digital ebook using the convenience of AI tools. My gratitude goes to God, DIO and Santander for the opportunity.
 
 <a href="https://github.com/VictorSamuraiWol/Project-ebook-aventura-link/blob/main/output/As%20Aventuras%20de%20Link%20na%20Copa%20do%20Mundo%20de%202026%20-%20Victor%20Cardoso.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 

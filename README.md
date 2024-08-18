@@ -43,8 +43,8 @@ Welcome! This project aims to generate a digital ebook using the convenience of 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 👨‍💻 AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student
-
+## <img src="assets/icone-wolverine-sem-fundo.png" width="50" /> AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student 
+<br>
 <p>
     <img 
       align=left 
@@ -53,11 +53,20 @@ Welcome! This project aims to generate a digital ebook using the convenience of 
       src="https://github.com/VictorSamuraiWol.png"
     />
     <p>&nbsp&nbsp&nbspVictor Cardoso<br>
-    &nbsp&nbsp<a href="https://github.com/VictorSamuraiWol">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/victor-cardoso-cloud-front/">LinkedIn</a>
-
-<br/><br/>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/VictorSamuraiWol">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/victor-cardoso-cloud-front/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    </p>
+</p>
+<br/>
 
 ---
 

@@ -43,7 +43,7 @@ Welcome! This project aims to generate a digital ebook using the convenience of 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 👨‍💻 Estudante Front-end e AWS Cloud Computing
+## 👨‍💻 AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student
 
 <p>
     <img 
